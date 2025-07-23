@@ -20,5 +20,8 @@ This project is a simple yet powerful Excel-based Sales Tracker that automates c
 To demonstrate practical Excel skills for data organization, reporting, and automation — ideal for roles that require Excel/Google Sheets proficiency.
 
 ---
+## 📸 Excel Dashboard Preview
+
+![Dashboard Screenshot](ExcelDashboard.png)
 
 **Created by Netra Sunil Darge**
