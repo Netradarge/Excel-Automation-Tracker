@@ -21,8 +21,6 @@ To demonstrate practical Excel skills for data organization, reporting, and auto
 
 ---
 ## 📸 Excel Dashboard Preview
-
-![Dashboard Screenshot](ExcelDashboard.png)
 <p align="center">
   <img src="ExcelDashboard.png" width="700"/>
 </p>
